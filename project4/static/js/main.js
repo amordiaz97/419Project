@@ -25,8 +25,8 @@ function goSignOut(){
 function setup(){
 	$("#MENARDS").click(goToMenards);
 	$('#home').click(goHome);
-	$("#TARGET").click(goToDisney);
-	$('#COSTCO').click(goToFood);
+	$("#TARGET").click(goToTarget);
+	$('#COSTCO').click(goToCostco);
 	$('#signout').click(goSignOut);
 }
 
