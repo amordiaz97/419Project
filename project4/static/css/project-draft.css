@@ -1,0 +1,74 @@
+
+h1 { text-align: center}
+
+
+
+#slideshow{
+   display: block;
+   margin: 0 auto;
+   margin-left: 380px;
+}
+#img1{
+	position:absolute;
+	left: 250px;
+	text-align: 250px;
+
+}
+
+#submit{
+	padding-right: 0px;
+}
+
+#video{
+	position: absolute;
+	top:340px;
+	left: 460px;
+}
+
+
+.img-circle{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	border: solid;
+	border-color: transparent;
+	
+
+}
+
+.img-circle2{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	border: solid;
+	border-color: transparent;
+}
+
+
+
+.positioning{
+	position: absolute;
+	left: 406px;
+	top: 200px;
+}
+
+.positioning_text{
+	text-align: center;
+}
+
+
+
+.text{
+	text-align: center;
+}
+
+.submit-button{
+	font-size:16pt;
+	color:white;
+	background-color:red;
+	border:2px solid red;
+	padding:15px;
+}
+
+
+
